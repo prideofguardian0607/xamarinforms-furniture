@@ -1,13 +1,4 @@
 # Xamarin.Forms E-commerce Furniture
-Conceito de App desenvolvido com XamarinForms. </br>
-O que foi usado no desenvolvimento:
-- Padrão MVVM (sem framework)
-- PancakeView (https://github.com/sthewissen/Xamarin.Forms.PancakeView)
-- Embedded Fonts (https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts)
-- Sharpnado.Shadows (https://github.com/roubachof/Sharpnado.Shadows)
-- CollectionView
-- Shapes (Path) - Nova feature do Xamarin.Forms
-- XamarinForms 4.7.0.968
 
 ## Screenshots
 ### Android
@@ -20,11 +11,3 @@ O que foi usado no desenvolvimento:
 
 ### GIF
 ![ezgif com-resize](https://user-images.githubusercontent.com/11803107/86255703-d1088200-bb8d-11ea-90d0-bed1578563f4.gif)
-
-## Créditos
-### Design
-https://dribbble.com/shots/8775988-E-commerce-Furniture-App
-![d4bcac94fd50127b74cd71b27de623a3](https://user-images.githubusercontent.com/11803107/86255827-fe553000-bb8d-11ea-96db-7e668b832f8b.png)
-
-### Licença
-MIT - Consulte o arquivo LICENSE.txt
